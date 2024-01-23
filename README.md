@@ -6,5 +6,11 @@ Explore a collection of my data visualization and analytics projects that unrave
 
 ## Projects:
 ### Customer Segmentation:
-- Analysing the Behavioral patterns of various customer segments.
-- 
+- Analysing the Behavioral and purchase patterns of various customer segments.
+- Analysed the Price Dynamics, Weekly purchase trends, and event_type analysis across the clusters.
+
+## Tools Used:
+- Python
+- Jupyter Notebook
+- PowerBi
+  
